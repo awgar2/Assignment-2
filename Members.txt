@@ -8,5 +8,5 @@ Member 3 Jack
 //Second year chemical engineering
 Member 4 Shaoxu
 //First year chemical engineering
-ghost member do exist
-//Only god knows
+ghost member do not exist
+//Even god can't figure it out

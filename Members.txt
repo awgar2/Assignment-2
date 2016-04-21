@@ -13,8 +13,3 @@ will
 you 
 please
 work
-<<<<<<< HEAD
-
-
-=======
->>>>>>> parent of 5576064... changes 2

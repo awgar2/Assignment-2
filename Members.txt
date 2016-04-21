@@ -8,12 +8,8 @@ Member 3 Jack
 //Second year chemical engineering
 Member 4 Shaoxu
 //First year chemical engineering
-<<<<<<< HEAD
 hello
 will
 you 
 please
 work
-=======
-
->>>>>>> parent of 13aad0e... jj
